@@ -5,7 +5,13 @@ Des documents et renseignements pour les 209 de Montaigne
 Vous pensez qu'il manque quelque chose sur cette page? N'hésitez pas à
 m'envoyer un message: klimann [at] irif.fr .
 
-# Français
+## Classroom
+
+* [rejoindre un cours sur
+  classroom](doc/classroom_-_rejoindre_un_coursrejoindre_un_cours_.pdf)
+* [utiliser classroom](doc/utiliser_classroom2.pdf)
+
+## Français
 
 * Livre
   * format pdf adapté aux liseuses:
