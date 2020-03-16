@@ -2,6 +2,9 @@ Des documents et renseignements pour les 209 de Montaigne
 =====
 
 
+Vous pensez qu'il manque quelque chose sur cette page? N'hésitez pas à
+m'envoyer un message: klimann [at] irif.fr .
+
 # Français
 
 * Livre
