@@ -10,6 +10,8 @@ m'envoyer un message: klimann [at] irif.fr .
 * [rejoindre un cours sur
   classroom](doc/classroom_-_rejoindre_un_coursrejoindre_un_cours_.pdf)
 * [utiliser classroom](doc/utiliser_classroom2.pdf)
+* codes :
+  * histoire-géo : tskzemb
 
 ## Français
 
