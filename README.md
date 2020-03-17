@@ -21,3 +21,7 @@ m'envoyer un message: klimann [at] irif.fr .
   * format pdf adapté à l'impression:
     [https://www.ebooksgratuits.com/pdf/balzac_colonel_chabert.pdf](https://www.ebooksgratuits.com/pdf/balzac_colonel_chabert.pdf)
 * Dossier à lire: [dossier](doc/2.3_balzac_chabert.pdf)
+
+## Maths
+
+* [correction exercices 22 à 29](doc/correction22a29.pdf)
